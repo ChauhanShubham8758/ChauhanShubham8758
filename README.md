@@ -57,3 +57,26 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  
+<!-- GitHub Readme Stats -->
+![](https://github-readme-stats.vercel.app/api?username=ChauhanShubham8758&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=false)
+
+<!-- Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=ChauhanShubham8758&theme=radical&hide_border=true&fire=DD472B&ring=DD7230)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChauhanShubham8758&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css)
+
+</div>
+
+<!-- Trophy Section -->
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChauhanShubham8758&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
